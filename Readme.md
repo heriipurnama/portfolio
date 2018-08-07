@@ -27,7 +27,7 @@ User
 ![mjm](images/mjm.png)
 Admin
 ![mjm](images/mjmAdmin.png)
-###### D. LMS [Loyalty Management System]
+###### E. LMS [Loyalty Management System]
 Migrate app from APEX to Javascript. This project is more moving PL / SQL Query to JavaScript and then displayed with ReactJS.
 in this project plays fullstack developer, Create API and Web Display.
 Tool tools used Loopback API, ReactJS, OracleDb etc.
