@@ -30,4 +30,4 @@ Admin
 ###### E. LMS [Loyalty Management System]
 Migrate app from [APEX](https://apex.oracle.com/en/) to [Javascript](https://www.javascript.com/). This project is more moving [PL/ SQL](http://www.oracle.com/technetwork/database/features/plsql/index.html) to [Javascript](https://www.javascript.com/) and then displayed with [ReactJS](https://reactjs.org/).
 in this project plays fullstack developer, Create API and Web Display.
-Tools used [Loopback](https://loopback.io/) for API, [ReactJS](https://reactjs.org/), [OracleDb](https://www.oracle.com/index.html) etc.
+Tools used [Loopback](https://loopback.io/) for API, [ReactJS](https://reactjs.org/) for view, [OracleDb](https://www.oracle.com/index.html) for Database etc.
