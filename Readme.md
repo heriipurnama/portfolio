@@ -28,6 +28,6 @@ User
 Admin
 ![mjm](images/mjmAdmin.png)
 ###### E. LMS [Loyalty Management System]
-Migrate app from [APEX](https://apex.oracle.com/en/) to [Javascript](https://www.javascript.com/). This project is more moving [PL/ SQL](http://www.oracle.com/technetwork/database/features/plsql/index.html) to [Javascript](https://www.javascript.com/) and then displayed with [ReactJS](reactjs.org).
+Migrate app from [APEX](https://apex.oracle.com/en/) to [Javascript](https://www.javascript.com/). This project is more moving [PL/ SQL](http://www.oracle.com/technetwork/database/features/plsql/index.html) to [Javascript](https://www.javascript.com/) and then displayed with [ReactJS](https://reactjs.org/).
 in this project plays fullstack developer, Create API and Web Display.
-Tool tools used [Loopback](https://loopback.io/) for API, [ReactJS](reactjs.org), [OracleDb](https://www.oracle.com/index.html) etc.
+Tool tools used [Loopback](https://loopback.io/) for API, [ReactJS](https://reactjs.org/), [OracleDb](https://www.oracle.com/index.html) etc.
